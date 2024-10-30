@@ -1,0 +1,11 @@
+A = Cycle editor mode / play mode
+D = draw
+E = erase
+B = blocks
+F = fruits
+T = traps
+K = boxes
+N = enemies
+left / right = cycle block sheet index
+up = cycle block color
+down = cycle block type
